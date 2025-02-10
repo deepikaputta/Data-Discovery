@@ -1,0 +1,12 @@
+streamlit
+boto3
+pyPDF2
+python-docx
+pandas
+graphviz
+plotly
+seaborn
+matplotlib
+python-dotenv
+networkx
+pygraphviz
